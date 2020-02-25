@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662547446977",
+    "firebase_url": "https://nodemcu-control-9ef99.firebaseio.com",
+    "project_id": "nodemcu-control-9ef99",
+    "storage_bucket": "nodemcu-control-9ef99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662547446977:android:c6b0d7137dc1ae6d122840",
+        "android_client_info": {
+          "package_name": "com.example.business_card_mail_extractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662547446977-lpktufetqhji3er7c1ku8vhej7h9tvql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.business_card_mail_extractor",
+            "certificate_hash": "80a6593d9ee0c8f295cc64e6dd3ab4c786a2c71b"
+          }
+        },
+        {
+          "client_id": "662547446977-hls39l02hbs9kqp1maihkdi83h71gdnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9i4Gt6E8VaB-sY7SeeiQLPKkGl0S8Z54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662547446977-hls39l02hbs9kqp1maihkdi83h71gdnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
